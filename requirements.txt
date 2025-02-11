@@ -1,0 +1,12 @@
+scipy
+six
+imageio
+python-dateutil
+numpy
+tensorboard
+tensorboardX
+tensorflow-gpu
+torch==2.3.0
+torchvision
+tqdm==4.29.1
+POT
